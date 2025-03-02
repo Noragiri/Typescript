@@ -1,4 +1,4 @@
-import { RoundShape,SquareShape } from "./index";
+import { RoundShape, SquareShape } from "./index";
 
 function main() {
   let radius = Math.floor(Math.random() * 10 + 1);
