@@ -96,12 +96,15 @@ local_settings.py
 .env
 db.sqlite3
 
-.vscode/*
+.vscode
 .vscode/settings.json
 .vscode/tasks.json
 .vscode/launch.json
 .vscode/extensions.json
 .vscode/*.code-snippets
+**/.vscode/launch.json
+**/.vscode/tasks.json
+tsconfig.json
 
 # Local History for Visual Studio Code
 .history/
